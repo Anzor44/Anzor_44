@@ -4,13 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aef8e385-cfc0-4b10-a4f2-7568147f2cd1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/mintty.2023-04-12_22-54-50.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaCore1/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaCore1/Group.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaCore1/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaCore1/Team.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+    <list default="true" id="aef8e385-cfc0-4b10-a4f2-7568147f2cd1" name="Changes" comment="Initial commit.">
+      <change afterPath="$PROJECT_DIR$/src/javaCore3/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaCore3/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaCore3/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaCore3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaCore3/Orange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaCore3/Task_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,23 +32,25 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2O1KmBGi7YOcN81xDNNFeODRZph" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "vcs.Git"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Main">
+}</component>
+  <component name="RunManager" selected="Application.javaCore3.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Anzor_44" />
@@ -69,8 +71,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="javaCore3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaCore3.Main" />
+      <module name="Anzor_44" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaCore3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.javaCore3.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Team" />
       </list>
@@ -85,6 +101,21 @@
       <option name="presentableId" value="Default" />
       <updated>1680722804749</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit.">
+      <created>1681482009271</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681482009271</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit.">
+      <created>1681847303927</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681847303927</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
